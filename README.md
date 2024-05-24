@@ -20,7 +20,7 @@
 
 </br>
 
-<p align="center"> UMA PESQUISADORA QUE TEM COMO PRINCIPAIS CARACTERÍSTICAS AUTENTICIDADE E VERSATILIDADE EM REALIZAR SEUS OBJETIVOS. SEU FASCÍNIO PRECOCE POR TECNOLOGIAS A LEVOU CRIAR SEU PRIMEIRO ALGORITMO ANTES MESMO DE INGRESSAR NA ACADEMIA. DETERMINADA EM EXERCER SUAS PAIXÕES, SE DESTACA UNINDO A PROGRAMAÇÃO COM SUA ESTÉTICA ÚNICA. COM DEDICAÇÃO CONTÍNUA AO ESTUDO, BUSCA EMPREGAR SEUS TALENTOS EM PROJETOS IMPACTANTES E SIGNIFICATIVOS PARA COM O CIBERESPAÇO.
+<p align="center"> Uma pesquisadora que tem como principais características a autenticidade e a versatilidade em realizar seus objetivos. Seu fascínio precoce por tecnologias a levou a criar seu primeiro algoritmo antes mesmo de ingressar na academia. Determinada em exercer suas paixões, se destaca unindo a programação com sua estética única. Com dedicação contínua ao estudo, busca empregar seus talentos em projetos impactantes e significativos para o ciberespaço.
 
 </p>
 </br>

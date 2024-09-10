@@ -20,7 +20,7 @@
 
 </br>
 
-<p align="center"> Uma pesquisadora que tem como principais características a autenticidade e a versatilidade em realizar seus objetivos. Seu fascínio precoce por tecnologias a levou a criar seu primeiro algoritmo antes mesmo de ingressar na academia. Determinada em exercer suas paixões, se destaca unindo a programação com sua estética única. Com dedicação contínua ao estudo, busca empregar seus talentos em projetos impactantes e significativos para o ciberespaço.
+<p align="center"> Uma criadora marcada pela autenticidade e versatilidade em tudo o que faz. Sua inclinação natural para automatizar tarefas a levou a explorar soluções criativas, mesmo antes de entrar na academia. Movida pela satisfação de proporcionar experiências únicas aos usuários, combina programação com uma estética memorável, destacando-se por transformar suas ideias em projetos impactantes no ciberespaço. Com dedicação contínua ao estudo, busca aplicar seus talentos em iniciativas que deixam uma marca significativa no mundo digital.
 
 </p>
 </br>

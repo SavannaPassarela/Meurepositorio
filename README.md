@@ -46,18 +46,28 @@ JAVASCRIPT | C | HTML | CSS | VISUAL BASIC | JAVA | VS CODE | GITHUB
 <p align="center">▞</p>
 </br>
 
-
 <p align="center">──────  𝙳𝙴𝚂𝙸𝙶𝙽  ──────</p>
 
+<p align="center">
+  <table>
+    <tr>
+      <th>PHOTOSHOP</th>
+      <th>ILLUSTRATOR</th>
+      <th>INDESIGN</th>
+      <th>FIGMA</th>
+      <th>CORELDRAW</th>
+    </tr>
+    <tr>
+      <td>★★★★☆</td>
+      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
+      <td>★★★☆☆</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</p>
 
-PHOTOSHOP | ILLUSTRATOR |INDESIGN | FIGMA | CORELDRAW 
-:---------: | :------: | :-------:| :-------:| :-------:
-★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ 
-
-
-</br>
-<p align="center"> ❖ </p>
-</br>
+<p align="center">❖</p>
 
 
 

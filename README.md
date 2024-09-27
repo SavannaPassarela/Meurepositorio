@@ -34,7 +34,7 @@
 
 </br>
 
-<p align="center">──────  𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁  ──────</p>
+<p align="center">──────  𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙼𝙴𝙽𝚃  ──────</p>
 
  
 JAVASCRIPT | C | HTML | CSS | VISUAL BASIC | JAVA | VS CODE | GITHUB 
@@ -47,9 +47,7 @@ JAVASCRIPT | C | HTML | CSS | VISUAL BASIC | JAVA | VS CODE | GITHUB
 </br>
 
 <p align="center">──────  𝙳𝙴𝚂𝙸𝙶𝙽  ──────</p>
-
-<!-- Espaçamento para tentar centralizar a tabela -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+;
 
 | PHOTOSHOP | ILLUSTRATOR | INDESIGN | FIGMA | CORELDRAW |
 | :-------: | :---------: | :------: | :---: | :-------: |

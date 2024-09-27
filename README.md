@@ -49,9 +49,9 @@ JAVASCRIPT | C | HTML | CSS | VISUAL BASIC | JAVA | VS CODE | GITHUB | REACT JS 
 <p align="center">──────  𝙳𝙴𝚂𝙸𝙶𝙽  ──────</p>
 
 
-| PHOTOSHOP | ILLUSTRATOR | INDESIGN | FIGMA | CORELDRAW | MARVEL APP |
-| :-------: | :---------: | :------: | :---: | :-------: | :-------: |
-| ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |
+| PHOTOSHOP | ILLUSTRATOR | INDESIGN | FIGMA | CORELDRAW | MARVEL APP | TINKERCAD | SWIFT 3D |
+| :-------: | :---------: | :------: | :---: | :-------: | :-------: |:-------: |:-------: |
+| ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |★★★☆☆ |
 
 <p align="center">❖</p>
 
